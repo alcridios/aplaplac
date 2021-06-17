@@ -1,0 +1,1 @@
+export {Alumno} from "./Alumno";
